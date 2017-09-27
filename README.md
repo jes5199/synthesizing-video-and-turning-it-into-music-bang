@@ -20,6 +20,8 @@ The piece of video/music that I try to show off that never seems to work quite r
 
 I have no idea what browsers it will work in. I use Chrome. Feel free to view the source, but it's a bit of a mess and kind of overengineered- I pushed some of the video-to-audio conversion into GPU code, and added the oscilliscope and FFT visualizations, and I don't remember what else.
 
+[![composition b](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/composition_b.png)](https://jes5199.github.io/demos/without%20incidental%20complexity.html)
+
 The initial inspiration for the videosynth auralizer came as ["composition b"](https://jes5199.github.io/demos/composition_b.html), which I wrote in a single night's worth of insomnia, October 2016.
 
 [![without incidental complexity](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/complexity.png)](https://jes5199.github.io/demos/without%20incidental%20complexity.html)
@@ -30,7 +32,7 @@ The first piece that made me think I was making something musically interesting 
 
 1. [A440 in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-a440.html)
 2. [A Major triad in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-triad.html)
-3. [A440 in WebGL](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/webgl-a440.html)  ([javascript audiolizer function](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L78)) ([WebGL waveform](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L136))
+3. [A440 in WebGL](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/webgl-a440.html) Jump directly to: ([javascript audiolizer function](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L78)) ([WebGL waveform](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L136))
 4. [the ruby script that converts wav files to images](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/wav2imgblob.rb)
 5. [auralizing images of my own voice](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/vocals.html)
 
