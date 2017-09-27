@@ -3,15 +3,21 @@
 
 I originally gave this talk at <a href="http://bangbangcon.com">!!con</a>, which requires all talk titles to include at least one exclamation point.
 
-![blue skies and red trees](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/red-trees.png)
+Video of that talk is available: https://www.youtube.com/watch?v=nwsg-ZTRRoI
 
-The piece of video/music that I try to show off that never seems to work quite right on stage is available here: https://jes5199.github.io/demos/blue%20skies%20and%20red%20trees.html
+[![blue skies and red trees](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/red-trees.png)](https://jes5199.github.io/demos/blue%20skies%20and%20red%20trees.html)
+
+The piece of video/music that I try to show off that never seems to work quite right on stage is available here: ["blue skies and red trees"](https://jes5199.github.io/demos/blue%20skies%20and%20red%20trees.html)
 
 I have no idea what browsers it will work in. I use Chrome. Feel free to view the source, but it's a bit of a mess and kind of overengineered- I pushed some of the video-to-audio conversion into GPU code, and added the oscilliscope and FFT visualizations, and I don't remember what else.
 
-I'll upload the minimal/simplified code that I used in slides, ASAP.
+## code from the talk
 
-Sites I consulted when creating this demo, these are all really amazing resources:
+1. [A440 in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-a440.html)
+2. [A Major triad in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-triad.html)
+3. ...
+
+## Sites I consulted when creating this demo, these are all really amazing resources:
 
 * [webglfundamentals.org](http://webglfundamentals.org)
 * [thebookofshaders.com](http://thebookofshaders.com)
