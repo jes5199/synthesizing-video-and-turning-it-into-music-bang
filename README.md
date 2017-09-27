@@ -15,7 +15,7 @@ I have no idea what browsers it will work in. I use Chrome. Feel free to view th
 
 1. [A440 in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-a440.html)
 2. [A Major triad in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-triad.html)
-3. ...
+3. [A440 in WebGL](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/webgl-a440.html)
 
 ## Sites I consulted when creating this demo, these are all really amazing resources:
 
