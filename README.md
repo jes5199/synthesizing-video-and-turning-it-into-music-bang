@@ -62,3 +62,5 @@ I ran a version of the auralizer on a family of aliasing patterns that I had bee
 44,100 ÷ 1024 = 43.06640625 Hz
 
 maybe someone else will stumble across this number in the process of doing something strange with audio, google it, and find this page
+
+after all, that's how I found this one: https://www.adventurekid.se/akrt/glossary/one-cycle-waveforms/1024-at-44-1-khz/
