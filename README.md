@@ -22,7 +22,7 @@ I have no idea what browsers it will work in. I use Chrome. Feel free to view th
 
 The initial inspiration for the videosynth auralizer came as ["composition b"](https://jes5199.github.io/demos/composition_b.html), which I wrote in a single night's worth of insomnia, October 2016.
 
-[![without incidental complexity](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/red-trees.png)](https://jes5199.github.io/demos/without%20incidental%20complexity.html)
+[![without incidental complexity](https://raw.githubusercontent.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/master/images/complexity.png)](https://jes5199.github.io/demos/without%20incidental%20complexity.html)
 
 The first piece that made me think I was making something musically interesting was ["without incidental complexity"](https://jes5199.github.io/demos/without%20incidental%20complexity.html)
 
@@ -32,7 +32,7 @@ The first piece that made me think I was making something musically interesting 
 2. [A Major triad in Javascript](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/js-triad.html)
 3. [A440 in WebGL](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/webgl-a440.html)  ([javascript audiolizer function](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L78)) ([WebGL waveform](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/c2ac59db270c14151ed7d050778b393597641e30/code/webgl-a440.html#L136))
 4. [the ruby script that converts wav files to images](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/wav2imgblob.rb)
-5. [auralizing images (my own voice version)](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/vocals.html)
+5. [auralizing images of my own voice](https://github.com/jes5199/synthesizing-video-and-turning-it-into-music-bang/blob/master/code/vocals.html)
 
 ## Sites I consulted when creating these demos, these are all really amazing resources:
 
@@ -50,7 +50,7 @@ The algorithmic art I used in a slide is "chaos portal (red/blue)" on shadertoy:
 
 A related but different piece titled "chaos pyramid" was on display during the intermission at !!con: https://www.shadertoy.com/view/ldscWN
 
-The Patreon page that I haven't managed to really use yet is at https://www.patreon.com/jes5199
+The Patreon page that I haven't managed to actually use yet is at https://www.patreon.com/jes5199
 
 I put some images I generated onto https://wolfe-interval.tumblr.com/
 
