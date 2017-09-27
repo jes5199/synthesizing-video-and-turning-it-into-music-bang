@@ -1,0 +1,26 @@
+<html>
+<script>
+  var audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+
+  var sample_rate = audioCtx.sampleRate; // 44100 hz
+  var samples_per_frame = 1024;
+  var inputChannelCount = 1; var outputChannelCount = 1;
+
+  var scriptNode = audioCtx.createScriptProcessor(
+    samples_per_frame, inputChannelCount, outputChannelCount
+  );
+  scriptNode.connect(audioCtx.destination);
+
+  scriptNode.onaudioprocess = function (event) {
+    var channelData = event.outputBuffer.getChannelData(0);
+
+    for(var i = 0; i < samples_per_frame; i++) {
+      var t = event.playbackTime + (i / sample_rate);
+
+      channelData[i] = Math.sin(t * 2 * Math.PI * 440);
+    }
+  }
+</script>
+<body>
+</body>
+</html>
