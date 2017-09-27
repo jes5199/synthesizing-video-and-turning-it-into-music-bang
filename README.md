@@ -57,3 +57,8 @@ The Patreon page that I haven't managed to actually use yet is at https://www.pa
 I put some images I generated onto https://wolfe-interval.tumblr.com/
 
 I ran a version of the auralizer on a family of aliasing patterns that I had been playing with (it's a long story.) and I found the noise surprisingly pleasing and so I posted it to soundcloud as if it was music: https://soundcloud.com/wolfe-interval/chromogeographic-oscillation 
+
+## magic number
+44,100 ÷ 1024 = 43.06640625 Hz
+
+maybe someone else will stumble across this number in the process of doing something strange with audio, google it, and find this page
