@@ -4,10 +4,10 @@
 I originally gave this talk at <a href="http://bangbangcon.com">:bangbang:con</a>, which requires all talk titles to include at least one exclamation point.
 
 Video of that talk is available: https://www.youtube.com/watch?v=nwsg-ZTRRoI
-The audio gets wonky because their HDMI system used 48kHz audio sample rate rather than the 44.1kHz that my code expects, oops.
+<br>The audio gets wonky because their HDMI system used 48kHz audio sample rate rather than the 44.1kHz that my code expects, oops.
 
 I reprised the talk at 🍩.js in Portland, and video is available here: https://www.youtube.com/watch?v=u0umvcH7kIc
-In this version, the audio gets wonky because instance of Skype running on the PA system was secretly trying to automatically readjust the input levels while the hosts wrestled against it, in confusion.
+<br>In this version, the audio gets wonky because instance of Skype running on the PA system was secretly trying to automatically readjust the input levels while the hosts wrestled against it, in confusion.
 
 Hopefully future talks will demonstrate even more varied and interesting ways of failing to record this music.
 
